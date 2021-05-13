@@ -114,7 +114,10 @@ class SendDisconnection extends Command
 
 
 
-
+                    
+            
+                    //send message via smsgateway.me
+            
                     // //start send message
                     // $array_fields['phone_number'] = $post->mobilenum;
                     // $array_fields['message'] = $smsBody;
